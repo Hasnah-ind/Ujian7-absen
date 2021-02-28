@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "378004619149",
+    "project_id": "presensi-a5860",
+    "storage_bucket": "presensi-a5860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378004619149:android:2b3e1669bf56918e3487c4",
+        "android_client_info": {
+          "package_name": "com.absen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378004619149-h94utlu5c071br3i6b2lr42c6dd6e06k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlGSYwk0PYyU50ZsEblM9us6y-I8W6Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378004619149-h94utlu5c071br3i6b2lr42c6dd6e06k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378004619149:android:a3f666dc8aa5467d3487c4",
+        "android_client_info": {
+          "package_name": "com.presensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378004619149-h94utlu5c071br3i6b2lr42c6dd6e06k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlGSYwk0PYyU50ZsEblM9us6y-I8W6Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378004619149-h94utlu5c071br3i6b2lr42c6dd6e06k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
